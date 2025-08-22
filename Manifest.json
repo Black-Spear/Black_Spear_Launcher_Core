@@ -1,0 +1,11 @@
+{
+  "version": "1.0.5",
+  "files": [
+    "main.js",
+    "preload.js",
+    "renderer.js",
+    "index.html",
+    "style.css",
+    "assets/Lang/translations.json"
+  ]
+}
