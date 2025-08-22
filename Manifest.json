@@ -1,11 +1,4 @@
 {
   "version": "1.0.5",
-  "files": [
-    "main.js",
-    "preload.js",
-    "renderer.js",
-    "index.html",
-    "style.css",
-    "assets/Lang/translations.json"
-  ]
+  "zip": "https://github.com/Black-Spear/Black_Spear_Launcher_Core/releases/download/Version_L1/Dark-Spear-L-V.0.zip"
 }
